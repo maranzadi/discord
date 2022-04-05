@@ -1,0 +1,184 @@
+Uri: https://discord.com/assets/05143b94baa56d73871a.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\05143b94baa56d73871a.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/05ea85db6ad9f88eb76d.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\05ea85db6ad9f88eb76d.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/05f8a96c00fc177aa553.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\05f8a96c00fc177aa553.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/0b5df4b2fbebddc07882.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\0b5df4b2fbebddc07882.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/0b91505dae071cab4c0b.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\0b91505dae071cab4c0b.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/14a17120248ea20823d1.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\14a17120248ea20823d1.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/2897ee1f473e14cf5d78.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\2897ee1f473e14cf5d78.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/29cc0124dbb310038d1e.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\29cc0124dbb310038d1e.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/2a6b8d1c4c54837fbc1c.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\2a6b8d1c4c54837fbc1c.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/2dac7ef7ed83aa99f0c1.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\2dac7ef7ed83aa99f0c1.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/38e0f37b55806c58e8db.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\38e0f37b55806c58e8db.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/40532.54964f0e9ed061682e76.css
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\40532.54964f0e9ed061682e76.css
+Content Type: text/css
+
+Uri: https://discord.com/assets/41df9a3f82259ce9cae7.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\41df9a3f82259ce9cae7.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/4b58fa778cc38e586a72.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\4b58fa778cc38e586a72.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/4db44807d95f283b76dc.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\4db44807d95f283b76dc.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/54ded025cd37b84f7c76.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\54ded025cd37b84f7c76.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/56c5f192abd072b90b3c.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\56c5f192abd072b90b3c.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/66fb582b4c0e8351bd05.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\66fb582b4c0e8351bd05.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/6a00f4fcdc15d8a48540.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\6a00f4fcdc15d8a48540.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/6b898894bb386d7a3664.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\6b898894bb386d7a3664.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/6f81e4e1883133e82730.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\6f81e4e1883133e82730.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/7251781bf8150624e1fa.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\7251781bf8150624e1fa.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/74c3870ebdd1502c7bf7.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\74c3870ebdd1502c7bf7.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/7c26446c180ac2af151c.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\7c26446c180ac2af151c.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/869ebdbd1f6dd67f2666.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\869ebdbd1f6dd67f2666.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/8a091307900fd1bed5a8.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\8a091307900fd1bed5a8.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/904814431bfff8422ed2.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\904814431bfff8422ed2.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/916a3fd42b56f5b5b0ff.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\916a3fd42b56f5b5b0ff.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/989bdb62ff6d6106c557.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\989bdb62ff6d6106c557.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/ab57a6b878d21859a1b5.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\ab57a6b878d21859a1b5.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/b4499d2a6b9046b1b402.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\b4499d2a6b9046b1b402.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/b5ae4510956ba204a260.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\b5ae4510956ba204a260.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/b5bad5031734900fdb2c.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\b5bad5031734900fdb2c.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/c359d656a241d67757cf.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\c359d656a241d67757cf.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/ca908795d70624f861c6.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\ca908795d70624f861c6.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/d0a9a1fbd3cbe507dcf2.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\d0a9a1fbd3cbe507dcf2.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/d9cb9dc487076e374066.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\d9cb9dc487076e374066.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/e17c29542186d186cd8f.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\e17c29542186d186cd8f.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/ea6bb7325e31a8a21e38.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\ea6bb7325e31a8a21e38.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/ec2c34cadd4b5f4594415127380a85e6.ico
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\ec2c34cadd4b5f4594415127380a85e6.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://discord.com/assets/efb278e1216055e3d1a8.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\efb278e1216055e3d1a8.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/f164a091aa59235abac6.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\f164a091aa59235abac6.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/f68ddf08c43a5e978081.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\f68ddf08c43a5e978081.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/ff03cfa1e1dbba3fa6f3.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\ff03cfa1e1dbba3fa6f3.js
+Content Type: application/javascript
+
+Uri: https://discord.com/assets/ff75434ce5bb71f00f36.js
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\assets\ff75434ce5bb71f00f36.js
+Content Type: application/javascript
+
+Uri: https://discord.com/login
+File Name: F:\Lanak\Segurtasuna\3.Ebaul\discord.com\login-1.html
+Content Type: text/html
+
